@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "levelUp",
+            "database": "${workspaceFolder:levelup}/db.sqlite3"
+        }
+    ],
+    "python.pythonPath": "/home/cwelshofer/.local/share/virtualenvs/levelup-_OMwLRaK/bin/python"
+}
